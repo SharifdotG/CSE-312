@@ -1,5 +1,5 @@
 ; Author: Sharif Yousuf (SharifdotG)
-; Program - Loop 5 to 1
+; Program 19 - Loop 5 to 1
 
 .model small      ; Use 'small' memory model: code and data fit within 64KB
 .stack 100h       ; Reserve 256 bytes (100h) for the stack

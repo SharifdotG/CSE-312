@@ -15,7 +15,7 @@ This course is designed to provide students with a comprehensive understanding o
 
 ## Table of Contents
 
-- **[Baics](/01_Basics/)**: It contains the basics codes such as character input/output, newline, etc.
+- **[Basics](/01_Basics/)**: It contains the basics codes such as character input/output, newline, etc.
 - **[Variables](/02_Variables/)**: It contains the codes for variables and also the codes for the string input/output.
 - **[Arithmetic Operations](/03_Arithmetic_Operations/)**: It contains the codes for arithmetic operations such as addition, subtraction, multiplication and increment/decrement.
 - **[Control Flow](/04_Control_Flow/)**: It contains the codes for control flow such as conditions and loops.

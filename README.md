@@ -18,4 +18,8 @@ This course is designed to provide students with a comprehensive understanding o
 - **[Basics](/01_Basics/)**: It contains the basics codes such as character input/output, newline, etc.
 - **[Variables](/02_Variables/)**: It contains the codes for variables and also the codes for the string input/output.
 - **[Arithmetic Operations](/03_Arithmetic_Operations/)**: It contains the codes for arithmetic operations such as addition, subtraction, multiplication and increment/decrement.
-- **[Control Flow](/04_Control_Flow/)**: It contains the codes for control flow such as conditions and loops.
+- **[Control Flow](/04_Jump_Compare/)**: It contains the codes for JMP and CMP instructions.
+- **[Loop](/05_Loops/)**: It contains the codes for the LOOP instruction.
+- **[Arrays](/06_Arrays/)**: It contains the codes for arrays.
+- **[Stack](/07_Stack/)**: It contains the codes for stack operations.
+- **[Procedures](/08_Procedures/)**: It contains the codes for procedures.

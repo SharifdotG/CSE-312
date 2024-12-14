@@ -23,4 +23,4 @@ This course is designed to provide students with a comprehensive understanding o
 - **[Arrays](/06_Arrays/)**: It contains the codes for arrays.
 - **[Stack](/07_Stack/)**: It contains the codes for stack operations.
 - **[Procedures](/08_Procedures/)**: It contains the codes for procedures.
-- **[*NEW* CSE 311](/CSE%20311/)**: It contains the Solutions of the Assembly Questions of CSE 311 (Spring 22, 23 & Fall 22, 23).
+- **[*(NEW)* CSE 311](/CSE%20311/)**: It contains the Solutions of the Assembly Questions of CSE 311 (Spring 22, 23 & Fall 22, 23).
